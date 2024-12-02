@@ -1,102 +1,122 @@
- Semana 1 - Apresentação do curso
+# Semana 1 - Apresentação do Curso
 
+Terá a participação de todos, mas o Manoel será o responsável por estruturar. O principal objetivo é motivar todos os participantes para que sigam até o final do programa de tutoria.
 
-Terá a participação de todos, mas o Manoel será o responsável por estruturar. Pricipal objetivo é ser motivador a todos que estiverem assistindos, para que sigam até o final do programa de tutoria.
+- **Objetivo**
+- **Temas os quais vamos trabalhar**
+- **Introdução a MLOps**
+- **Dia a dia de um engenheiro de Machine Learning**
+- **Orquestração**
+- **Maturidade de esteira MLOps**
+- **Apresentação de proposta de DESAFIO**
 
-      - Objetivo
-      - Temas os quais vamos trabalhar
-      - Introdução a MLOps
-      - Dia a dia de um engenheiro de Machine learning
-      - Orquestração
-      - Maturidade de esteira MLOps
-      - Apresentação de proposta de DESAFIO
+---
 
+# Semana 2 - Dados
 
-Semana 2 - Dados
+Será estruturado pelo Patusco.
 
-Será estruturado pelo Patusco
+- **MLflow**
+- **Extração de dados**
+- **Tipos de dados**
+- **Engenharia de features**
+- **Armazenamento de features**
 
-      - MLflow
-      - Extração de dados
-      - Tipos de dados
-      - Engenharia de features
-      - Armazenamento de features
+## Hands-On
+Notebook com orientações organizadas por células, incluindo alguns códigos e importações de bibliotecas necessárias:
 
-      Hands On - Notebook com orientações do que precisa ser feito e organizado por células, talvez alguns código e import de libs que serão necessárias para isso
+- Iniciando com MLFlow
+- Importando datasets do Kaggle
+- Entendimento e interpretação dos dados
+- Limpeza dos dados
+- Trabalhando com dados qualitativos
+- Trabalhando com dados quantitativos
 
-            - Iniciando com MLFlow
-            - Importando datasets do kaggle
-            - Entendimento e interpretação dos dados
-            - Limpeza dos dados
-            - trabalhando com dados qualitativos
-            - trabalhando com dados quantitativos
+---
 
-Semana 3 - Modelagem
+# Semana 3 - Modelagem
 
-Será estruturado pelo Manoel
+Será estruturado pelo Manoel.
 
-      - Bibliotecas clássicas
-      - Redes neurais
-      - IA generativa
-      - Metodologias de otimização de modelos
-      - armazenamento dos treinamentos
+- **Bibliotecas clássicas**
+- **Redes neurais**
+- **IA generativa**
+- **Metodologias de otimização de modelos**
+- **Armazenamento dos treinamentos**
 
-      Hands On - Notebook com orientações do que precisa ser feito e organizado por células, talvez alguns código e import de libs que serão necessárias para isso
-            - Iniciar treinamento usando bibliotecas clássicas
-            - Otimização dos modelos ajustando hiperparametros
-            - Otimização dos modelos usando boost
-            - Armazenando e versionando modelos com MLFlow
-            - Usando IA Generativa
-            - Comparar recursos utilizados
+## Hands-On
+Notebook com orientações organizadas por células, incluindo alguns códigos e importações de bibliotecas necessárias:
 
-Semana 4 - Deploy
+- Iniciar treinamento usando bibliotecas clássicas
+- Otimização dos modelos ajustando hiperparâmetros
+- Otimização dos modelos usando Boost
+- Armazenando e versionando modelos com MLFlow
+- Usando IA Generativa
+- Comparar recursos utilizados
 
-Será estruturado pelo Plensack
+---
 
-      - Tipos de serving
-      - Tipos de deploy
-      - Introdução a cloud e seus recursos
-            - CI/CD
-            - Infra as a code
-      - Validações após o deploy
-      
-      Hands On - Notebook com orientações do que precisa ser feito e organizado por células, talvez alguns código e import de libs que serão necessárias para isso
-            - Execução de modelos localmente em formato batch e online
-            - Comparação dos resultados
-            - Comparação de performance
-            - Análise de recursos utilizados
+# Semana 4 - Deploy
 
-Semana 5 - Monitoração
+Será estruturado pelo Plensack.
 
-Será estruturado pelo Patusco
+- **Tipos de serving**
+- **Tipos de deploy**
+- **Introdução a cloud e seus recursos**
+  - CI/CD
+  - Infra as Code
+- **Validações após o deploy**
 
-      - O que monitorar
-      - alertas
-      
-      Hands On - Notebook com orientações do que precisa ser feito e organizado por células, talvez alguns código e import de libs que serão necessárias para isso
-            - Criando alertas
-            - Adicionando logs
-            - visualizando dashs
+## Hands-On
+Notebook com orientações organizadas por células, incluindo alguns códigos e importações de bibliotecas necessárias:
 
-Semana 6 - Finalização
+- Execução de modelos localmente em formato batch e online
+- Comparação dos resultados
+- Comparação de performance
+- Análise de recursos utilizados
 
-Será estruturado pelo Plensack e contará com a paticipação de todos
+---
 
-      - Feedbacks
-      - Boas práticas de programação
-      - Explicação do projeto final e critérios de avaliação
+# Semana 5 - Monitoração
 
-Semana 7 e 8 - Projeto final
+Será estruturado pelo Patusco.
 
-Será estrutura em equipe, os primeiros testes pelo Plensack.
+- **O que monitorar**
+- **Alertas**
 
-      - Tempo para execução do projeto e entrega via git
-      - Avaliação dos códigos dos projetos entregues seguindo os critérios apresentados
-      - Os 3 melhores serão selecionados para apresentar na seguinte semana. O melhor recebera um prêmio
+## Hands-On
+Notebook com orientações organizadas por células, incluindo alguns códigos e importações de bibliotecas necessárias:
 
-Importante deixar claro que a presença no curso não garante uma vaga ou já a disponibilidade de realizar a prova, deixa apto para quando essas oportunidades aparecerem, possa ter certeza que conhece todos os pontos que serão cobrados.
-Critérios para participação do curso: Conhecimento de python intermediário, docker básico, AWS básico.
-Iremos usar o google clasrrom como plataforma de gestão dos alunos e entregas dos hands on solicitados, onde a entrega soma pontos a serem considerados para eleger o top3 projetos finalistas.
-Para que todos julguem da mesma maneira os critério de avaliação propostos, teremos um planilha avaliativa que dever aser preenchida, com nome e descrição de critério, assim como justificativas para cada nota.
-Importante ter um feedback bem estruturado aos tutorados para eles saberem onde evoluir.
-Será verificado se irão receber algum certificado pela participação do programa de tutoria.
+- Criando alertas
+- Adicionando logs
+- Visualizando dashboards
+
+---
+
+# Semana 6 - Finalização
+
+Será estruturado pelo Plensack e contará com a participação de todos.
+
+- **Feedbacks**
+- **Boas práticas de programação**
+- **Explicação do projeto final e critérios de avaliação**
+
+---
+
+# Semanas 7 e 8 - Projeto Final
+
+Será estruturado em equipe, com os primeiros testes realizados pelo Plensack.
+
+- Tempo para execução do projeto e entrega via Git
+- Avaliação dos códigos dos projetos entregues seguindo os critérios apresentados
+- Os 3 melhores serão selecionados para apresentar na semana seguinte. O melhor receberá um prêmio
+
+---
+
+# Informações Adicionais
+
+- **Participação no curso não garante vaga, mas capacita para futuras oportunidades.**
+- **Critérios para participação:** Conhecimento intermediário de Python, básico de Docker e AWS.
+- **Gestão do curso:** Google Classroom será usado para entrega e avaliação dos Hands-On.
+- **Critérios de avaliação:** Planilha avaliativa será disponibilizada, com nome, descrição e justificativa de critérios.
+- **Certificado:** Verificação sobre emissão de certificado pela participação.
