@@ -38,11 +38,13 @@ Notebook com orientações organizadas por células, incluindo alguns códigos e
 
 Será estruturado pelo Manoel.
 
-- **Bibliotecas clássicas**
-- **Redes neurais**
-- **IA generativa**
-- **Metodologias de otimização de modelos**
-- **Armazenamento dos treinamentos**
+- **Introdução a Machine Learning**
+- **Tipos de Aprendizados**
+- **Dados**
+- **Algoritmos de Machine Learning**
+- **Otimização de Modelos**
+- **Bibliotecas de Machine Learning**
+- **LLM**
 
 ## Hands-On
 Notebook com orientações organizadas por células, incluindo alguns códigos e importações de bibliotecas necessárias:
