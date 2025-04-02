@@ -1,7 +1,6 @@
 """
 Aplicação para rodar a predição a de uma Resnet-18
 """
-import pandas as pd
 import torch
 from datasets import load_dataset
 from transformers import AutoImageProcessor, AutoModelForImageClassification
