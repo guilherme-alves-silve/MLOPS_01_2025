@@ -115,6 +115,12 @@ Será estruturado em equipe, com os primeiros testes realizados pelo Plensack.
 
 ---
 
+# Extras
+
+- Projeto sobre aprendizado por reforço (Q-Learning)
+
+---
+
 # Informações Adicionais
 
 - **Participação no curso não garante vaga, mas capacita para futuras oportunidades.**
